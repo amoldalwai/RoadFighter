@@ -11,7 +11,7 @@ A 2D Car Racing game made using HTMl , CSS & Javascript .In which the player can
 
 
 
-### Features 
+## Features 
 
 - [x] Control Player car movement with Arrow keys
 - [x] Two modes with different background
@@ -20,7 +20,7 @@ A 2D Car Racing game made using HTMl , CSS & Javascript .In which the player can
 - [ ] Random enemy car movement
 
 
-## Social statistics of the Project
+### Social statistics of the Project
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/TOLQMlnQpvk?style=plastic)
 ![YouTube Video Votes](https://img.shields.io/youtube/likes/TOLQMlnQpvk?style=social&withDislikes)
