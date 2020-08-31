@@ -2,7 +2,7 @@
 
 # RoadFighter
 
-A 2D Car Racing game made using HTMl , CSS & Javascript .In which the player can control the movement of the car using Arrow keys from keyboard to move away from incoming cars and obstacles.
+A 2 D Car Racing game made using HTMl , CSS & Javascript .In which the player can control the movement of the car using Arrow keys from keyboard to move away from incoming cars and obstacles.
 
 ![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/RoadFighter?style=plastic)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/RoadFighter?style=plastic)
