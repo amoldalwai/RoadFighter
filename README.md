@@ -13,14 +13,20 @@ A 2D Car Racing game made using HTMl , CSS & Javascript .In which the player can
 
 ## Features 
 
+
 - [x] Control Player car movement with Arrow keys
 - [x] Two modes with different background
 - [x] Multiple enemy cars and obstruction
 - [x] Collision Detection
 - [ ] Random enemy car movement
+- [ ] Difficulty Level
 
 
-### Social statistics of the Project
+## Demostration Link
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TOLQMlnQpvk
+" target="_blank"><img src="http://img.youtube.com/vi/TOLQMlnQpvk/0.jpg" 
+alt="RoadFighter " width="240" height="180" border="10" /></a>
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/TOLQMlnQpvk?style=plastic)
 ![YouTube Video Votes](https://img.shields.io/youtube/likes/TOLQMlnQpvk?style=social&withDislikes)
@@ -30,7 +36,7 @@ A 2D Car Racing game made using HTMl , CSS & Javascript .In which the player can
 ### Installing
 
 ```
-Run index.html on browser
+Run index.html on browser (eg. Chrome)
 ```
 
 
