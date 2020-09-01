@@ -24,7 +24,7 @@ A 2 D Car Racing game made using HTMl , CSS & Javascript .In which the player ca
 - [ ] Difficulty Level
 
 
-## Demonstration Link
+## Demonstration Video on Youtube
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TOLQMlnQpvk
 " target="_blank"><img src="http://img.youtube.com/vi/TOLQMlnQpvk/0.jpg" 
