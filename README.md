@@ -8,6 +8,11 @@ A 2 D Car Racing game made using HTMl , CSS & Javascript .In which the player ca
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/RoadFighter?style=plastic)
 ![Website](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Famoldalwai.github.io%2FRoadFighter%2F)
 
+#### Table of Contents  
+[Features](#Features)  
+[Youtube](#Youtube)\
+[Installing](#Installing)
+
 ![Demonstartion Video](https://j.gifs.com/p8A1nN.gif)
 
 
@@ -25,7 +30,7 @@ A 2 D Car Racing game made using HTMl , CSS & Javascript .In which the player ca
 - [ ] Difficulty Level
 
 
-## Demonstration video on Youtube
+## Youtube
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TOLQMlnQpvk
 " target="_blank"><img src="http://img.youtube.com/vi/TOLQMlnQpvk/0.jpg" 
