@@ -47,5 +47,5 @@ alt="RoadFighter " width="240" height="180" border="10" /></a>
 Run index.html on browser (eg. Chrome)
 ```
 
-![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red&style=for-the-badge)
+![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red?style=for-the-badge)
 
